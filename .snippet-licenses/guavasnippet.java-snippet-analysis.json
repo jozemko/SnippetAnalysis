@@ -1,0 +1,906 @@
+{
+  "snippetMatches": {
+    "UNKNOWN": [
+      {
+        "projectName": "antlr/groom",
+        "releaseVersion": "1.4.14-child3-index-back-in-new-distance-measures-parent-added-to-ws",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/codebuff-9d454393ef919f0913c056de0daf7a2c22767182/output/java_guava/1.4.13/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            63,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            51,
+            164
+          ],
+          "matchedEndLines": [
+            154,
+            237
+          ]
+        }
+      },
+      {
+        "projectName": "antlr/groom",
+        "releaseVersion": "1.4.16-force-nl-after-single-line-comments",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/codebuff-9764b45ced4a0a221dfc8d6e5b35b3820f350685/output/java_guava/1.4.16/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            63,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            51,
+            164
+          ],
+          "matchedEndLines": [
+            154,
+            236
+          ]
+        }
+      },
+      {
+        "projectName": "antlr/groom",
+        "releaseVersion": "1.4.18-no-align-becomes-align-to-prev-line",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/codebuff-82fb7cafb270c7b4acd5b2f58310f6f5463264af/output/java_guava/1.4.18/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            63,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            51,
+            164
+          ],
+          "matchedEndLines": [
+            154,
+            236
+          ]
+        }
+      },
+      {
+        "projectName": "ons-client 1.0.5",
+        "releaseVersion": "2.0.4.Final",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/com/aliyun/openservices/ons/shaded/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            37,
+            163
+          ],
+          "matchedEndLines": [
+            152,
+            232
+          ]
+        }
+      },
+      {
+        "projectName": "ons-client 1.0.5",
+        "releaseVersion": "2.0.0.Final",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/com/aliyun/openservices/ons/shaded/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            224
+          ]
+        }
+      },
+      {
+        "projectName": "guava-core",
+        "releaseVersion": "28.1",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            159,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            140,
+            223
+          ]
+        }
+      },
+      {
+        "projectName": "GooseFS Shaded Libraries - Client",
+        "releaseVersion": "1.1.0",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/com/qcloud/cos/goosefs/shaded/client/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      }
+    ],
+    "RECIPROCAL_AGPL": [
+      {
+        "projectName": "voltdb",
+        "releaseVersion": "voltdb-6.9",
+        "licenseDefinition": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdxId": "AGPL-3.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Affero General Public License v3.0"
+        },
+        "matchedFilePath": "/voltdb-voltdb-6.9/third_party/java/src/com/google_voltpatches/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            224
+          ]
+        }
+      },
+      {
+        "projectName": "tenant-security-java",
+        "releaseVersion": "4.0.0",
+        "licenseDefinition": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdxId": "AGPL-3.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Affero General Public License v3.0"
+        },
+        "matchedFilePath": "/com/ironcorelabs/shaded/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            155
+          ],
+          "matchedEndLines": [
+            144,
+            224
+          ]
+        }
+      },
+      {
+        "projectName": "tenant-security-java",
+        "releaseVersion": "7.2.1",
+        "licenseDefinition": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdxId": "AGPL-3.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Affero General Public License v3.0"
+        },
+        "matchedFilePath": "/com/ironcorelabs/shaded/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            38,
+            164
+          ],
+          "matchedEndLines": [
+            153,
+            233
+          ]
+        }
+      }
+    ],
+    "RECIPROCAL": [
+      {
+        "projectName": "Intellij Community",
+        "releaseVersion": "idea/173.3302.5",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND GNU General Public License v2.0 or later AND BSD 3-clause \"New\" or \"Revised\" License AND NetComponents License AND Jdom License AND zlib License AND Apache License 2.0 AND GNU General Public License v2.0 w/Classpath exception AND MIT License AND Sun Binary Code JAAS License v1.0 AND IBM Public License v1.0 AND Christian Michelsen Research License AND Apache License 1.1 AND BSD 2-clause \"Simplified\" License AND GNU Lesser General Public License v2.1 or later AND Common Public 0.5 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "intellij-community-c7b4fa986d9ea6a613211ee7be8d7f9c632e4e59/lib/src/guava-21.0-sources.jar!/#/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            224
+          ]
+        }
+      },
+      {
+        "projectName": "voltdb",
+        "releaseVersion": "archive/ENG-11944-gram-exec-procs",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Sun BSD License AND MIT v2 with Ad Clause License AND Stichting Mathematisch License AND ISC License AND Common Public License 1.0 AND libxml2 License AND Boost Software License 1.0 AND GNU Affero General Public License v3.0 AND GNU General Public License v2.0 or later AND BSD 3-clause \"New\" or \"Revised\" License AND BeOpen.com License Agreement for Python 2.0 AND MIT Not Evil License AND curl License AND Apache License 2.0 AND The Open SSL License AND MIT License AND Open Group License AND University of Illinois/NCSA Open Source License AND Creative Commons Public Domain Dedication and Certification AND Apache License 1.1 AND BSD 2-clause \"Simplified\" License AND GNU Lesser General Public License v2.1 or later AND Public Domain AND Eclipse Public License 1.0 AND XFree86 License 1.1 AND Python Software Foundation License 2.0 AND CNRI Python License AND GNU General Public License v3.0 or later)"
+        },
+        "matchedFilePath": "/voltdb-0ca5a1ac97d8ed8f3622deb26fb7afa7f2aca962/third_party/java/src/com/google_voltpatches/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            224
+          ]
+        }
+      },
+      {
+        "projectName": "Open-Xchange",
+        "releaseVersion": "7.10.0-10",
+        "licenseDefinition": {
+          "name": "GNU General Public License v2.0 or later",
+          "spdxId": "GPL-2.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v2.0 or later"
+        },
+        "matchedFilePath": "./com.google.guava/lib/source/guava-25.0-jre-sources.jar!/#/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            222
+          ]
+        }
+      },
+      {
+        "projectName": "Open-Xchange",
+        "releaseVersion": "7.10.1-6",
+        "licenseDefinition": {
+          "name": "GNU General Public License v2.0 or later",
+          "spdxId": "GPL-2.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v2.0 or later"
+        },
+        "matchedFilePath": "./com.google.guava/lib/source/guava-27.0-jre-sources.jar!/#/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      },
+      {
+        "projectName": "com.guicedee.services:guava",
+        "releaseVersion": "1.0.7.10-jre14",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      },
+      {
+        "projectName": "com.guicedee.services:guava",
+        "releaseVersion": "1.0.2.15-jre13",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      },
+      {
+        "projectName": "com.guicedee.services:guava",
+        "releaseVersion": "1.2.1.1-jre17",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            37,
+            163
+          ],
+          "matchedEndLines": [
+            152,
+            232
+          ]
+        }
+      }
+    ],
+    "WEAK_RECIPROCAL": [
+      {
+        "projectName": "OpenCms",
+        "releaseVersion": "13.0",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v3.0 or later",
+          "spdxId": "LGPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v3.0 or later"
+        },
+        "matchedFilePath": "WEB-INF/lib/guava-gwt-31.0.1-jre.jar!/#/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            37,
+            163
+          ],
+          "matchedEndLines": [
+            152,
+            232
+          ]
+        }
+      },
+      {
+        "projectName": "OpenCms",
+        "releaseVersion": "build_19_0_0",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v2.1 only",
+          "spdxId": "LGPL-2.1-only",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v2.1 only"
+        },
+        "matchedFilePath": "opencms.war!/WEB-INF/lib/guava-gwt-33.4.0-jre.jar!/#/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            38,
+            164
+          ],
+          "matchedEndLines": [
+            153,
+            233
+          ]
+        }
+      },
+      {
+        "projectName": "SonarLint Core - Implementation",
+        "releaseVersion": "8.10.0.56343",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v3.0 or later",
+          "spdxId": "LGPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            37,
+            163
+          ],
+          "matchedEndLines": [
+            152,
+            232
+          ]
+        }
+      },
+      {
+        "projectName": "Android - platform - prebuilts - tools",
+        "releaseVersion": "android-n-iot-release-ihome-igv1",
+        "licenseDefinition": {
+          "name": "Eclipse Public License 1.0",
+          "spdxId": "EPL-1.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Eclipse Public License 1.0"
+        },
+        "matchedFilePath": "./common/m2/repository/com/google/guava/guava/25.1-jre/guava-25.1-jre-sources.jar!/#/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            231
+          ],
+          "matchedStartLines": [
+            31,
+            152
+          ],
+          "matchedEndLines": [
+            141,
+            209
+          ]
+        }
+      },
+      {
+        "projectName": "OpenAM Client SDK",
+        "releaseVersion": "14.5.2",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Creative Commons Attribution Non Commercial No Derivatives 3.0)"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      }
+    ],
+    "PERMISSIVE": [
+      {
+        "projectName": "ACS AEM Commons Bundle",
+        "releaseVersion": "6.2.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/acscommons/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            37,
+            163
+          ],
+          "matchedEndLines": [
+            152,
+            232
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "20.0-rc1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            224
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "19.0.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            32,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            225
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "v23.6",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/guava-23.6/guava/src/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            222
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "25.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/guava-25.0/guava/src/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            222
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "v25.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/guava-b28b5850d11b948a5b0f9240894636e0b5bec22a/android/guava/src/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            231
+          ],
+          "matchedStartLines": [
+            31,
+            153
+          ],
+          "matchedEndLines": [
+            142,
+            210
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "v26.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/guava-bbf9295088d668c06e573cea03f01375985c1814/guava/src/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "v27.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      },
+      {
+        "projectName": "googleguava",
+        "releaseVersion": "v29.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/com/google/common/base/Strings.java",
+        "regions": {
+          "sourceStartLines": [
+            55,
+            178
+          ],
+          "sourceEndLines": [
+            162,
+            239
+          ],
+          "matchedStartLines": [
+            33,
+            154
+          ],
+          "matchedEndLines": [
+            143,
+            223
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://sca.field-test.blackduck.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.blackduck.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
